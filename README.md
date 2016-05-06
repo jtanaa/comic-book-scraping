@@ -2,13 +2,13 @@
 This python file will transfer any comicbook on comic.kukudm.com into one single webpage
 
 All you have to do is install requirement library first like this(notice the \,/ difference in windows cmd and linux,OS Terminal):
-```python
+```
 pip install -r \path\to\requirements.txt
 ```
 
 
 And then
-```python
+```
 python /path/to/parse_kukudm.py
 ```
 
